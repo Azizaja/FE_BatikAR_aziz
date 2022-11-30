@@ -1,0 +1,94 @@
+.{
+	list-style: none;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+body{
+	font-family: sans-serif;
+	background-color: #FFFAF0;
+}
+
+a{
+	text-decoration: none;
+}
+
+.form-control:focus {
+        border-color: #1E1E1E;
+        box-shadow: 0 0 0 0.1rem #1E1E1E;
+    }
+
+.input-group{
+	width: 50%;
+}
+
+.nav-item{
+	font-size: 15px;
+}
+
+.nav-item i{
+	font-size: 25px;
+}
+
+.menu-wrapper{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.menu a{
+	margin: 0 25px;
+}
+
+hr{
+	width: 50px;
+	height: 3px;
+	background-color: #FFD700;
+}
+
+section .rating i{
+	font-size: 20px;
+	color: #FFD700;
+}
+.badge{
+	color: #FFD700;"
+}
+
+.Baju{
+	margin-top: 50px;
+}
+
+.Baju .rating i{
+	font-size: 20px;
+	color: #FFD700;
+}
+
+.btn-cart{
+	/*padding: 8px 10px;*/
+	border-radius: 8px;
+	/*background-color:  ;*/
+	/*color: black;*/ 
+}
+
+.detail a{
+	color: #FFD700;
+	font-weight: medium; 
+}
+
+.detail i{
+	font-size: 25px;
+	color: #FFD700;
+}
+
+footer{
+	margin-top: 150px;
+	background-color: #1E1E1E;
+}
+
+footer h3,i{
+	font-size: 25px;
+	color: #FFD700;
+}
+
+footer li a{
+	color: #FFD700;
+}
